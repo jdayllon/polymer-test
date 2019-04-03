@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Algeciras",
+        "text": "\n                Edita:\n                 Consejería de Turismo y Deporte",
+        "precio": " | Precio:0 €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78781.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "https://www.juntadeandalucia.es/themes/images/pub_generica.gif"
+        }
+    },
+    {
+        "title": "Evaluación Intermedia II Plan de Infancia y Adolescencia de Andalucía",
+        "text": "\n                Edita:\n                 ",
+        "precio": " | Precio: €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78779.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "http://www.juntadeandalucia.es/export/drupaljda/publicacion/19/03/EvaluacionIntermedia.jpg"
+        }
+    },
+    {
+        "title": "Breviario de la montaña : diciembre 2018 - febrero 2019. Casa Pinillos, Cádiz",
+        "text": "\n                Edita:\n                 Consejería de Cultura",
+        "precio": " | Precio:7 €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78778.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "http://www.juntadeandalucia.es/export/drupaljda/publicacion/19/03/JACUAA-2018-0049.jpg"
+        }
+    },
+    {
+        "title": "Cómo bailan los caballos andaluces : Guía del espectáculo = Show guide = Leitfaden der Spektacle = Guide du spectacle",
+        "text": "\n                Edita:\n                 [Consejería de Turismo y Deporte]",
+        "precio": " | Precio:0 €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78777.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "https://www.juntadeandalucia.es/themes/images/pub_generica.gif"
+        }
+    },
+    {
+        "title": "La Mujer en el Mercado de Trabajo Andaluz. 2018",
+        "text": "\n                Edita:\n                 Servicio Andaluz de Empleo. Observatorio Argos (Sistema de Prospección Permanente del Mercado de Trabajo de Andalucía)",
+        "precio": "Disponible | Precio: €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78776.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "http://www.juntadeandalucia.es/export/drupaljda/publicacion/19/03/Mujer 2018.jpg"
+        }
+    },
+    {
+        "title": "Register of landscapes of cultural interest in Andalusia : informative document",
+        "text": "\n                Edita:\n                 Consejería de Cultura",
+        "precio": " | Precio:15 €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78775.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "http://www.juntadeandalucia.es/export/drupaljda/publicacion/19/03/JACUPH-2018-0046.jpg"
+        }
+    },
+    {
+        "title": "Registro de paisajes de interés cultural de Andalucía : documento divulgativo",
+        "text": "\n                Edita:\n                 Consejería de Cultura",
+        "precio": " | Precio:15 €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78774.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "http://www.juntadeandalucia.es/export/drupaljda/publicacion/19/03/JACUPH-2018-0047.jpg"
+        }
+    },
+    {
+        "title": "The Mother of Us All",
+        "text": "\n                Edita:\n                 Consejería de Cultura y Patrimonio Histórico",
+        "precio": " | Precio:7 €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78773.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "http://www.juntadeandalucia.es/export/drupaljda/publicacion/19/02/mother.jpg"
+        }
+    },
+    {
+        "title": "Memoria del Tribunal Administrativo de Recursos Contractuales de la Junta de Andalucía. Año 2013",
+        "text": "\n                Edita:\n                 Tribunal Administrativo de Recursos Contractuales de la Junta de Andalucía",
+        "precio": " | Precio: €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78772.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "http://www.juntadeandalucia.es/export/drupaljda/publicacion/19/02/Memoria_TARCJA_2013.JPG"
+        }
+    },
+    {
+        "title": "Símbolos de la muerte en la Prehistoria Reciente del sur de Europa. El Dolmen de Soto, Huelva. España",
+        "text": "\n                Edita:\n                 Consejería de Cultura",
+        "precio": " | Precio:20 €",
+        "href": "https://www.juntadeandalucia.es/servicios/publicaciones/detalle/78771.html",
+        "img": {
+            "title": "Portada de la publicación",
+            "alt": "Portada de la publicación",
+            "src": "http://www.juntadeandalucia.es/export/drupaljda/publicacion/19/02/JACUBC-2018-0042.jpg"
+        }
+    }
+]
