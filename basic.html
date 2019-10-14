@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Basic Scenario - jsGrid Demo</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,600,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="http://js-grid.com/css/demos.css" />
+    <link rel="stylesheet" type="text/css" href="http://js-grid.com/css/jsgrid.min.css" />
+    <link rel="stylesheet" type="text/css" href="http://js-grid.com/css/jsgrid-theme.min.css" />
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/cupertino/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+    
+    <script>window.jQuery || document.write('<script src="http://js-grid.com/js/jquery-1.8.3.js"><\/script>')</script>
+
+    <script src="http://js-grid.com/js/jsgrid.min.js"></script>
+    <script src="http://js-grid.com/js/i18n/jsgrid-fr.js"></script>
+    <!--<script src="db.js"></script>-->
+    <script src="https://redprofesional-des.juntadeandalucia.es/serve-file/e1571054525/l1571047285/da/c1/iIz7-dkn-T6JRigGmBVZlSokQmM220zxCbWQZumyWvA/1/1916/file/1571047285db.js"></script>
+</head>
+<body>
+<div id="jsGrid"></div>
+
+<script>
+    $(function() {
+     
+     $("#jsGrid").jsGrid({
+         height: "90%",
+         width: "650px",
+  
+         filtering: true,
+         editing: false,
+         sorting: true,
+         paging: true,
+         autoload: true,
+  
+         pageSize: 15,
+         pageButtonCount: 5,
+  
+         deleteConfirm: "Do you really want to delete the client?",
+  
+         controller: db,
+  
+         fields: [
+             { name: "Centro", type: "text", width: 80 },
+             { name: "Puesto", type: "text", width: 50 },
+             { name: "Nombre", type: "text", width: 80 },
+             { name: "Apellidos", type: "text", width: 100 },
+             { name: "Interno", type: "number", width: 20 }//,
+             //{ name: "Exterior", type: "number", width: 30 },
+             //{ name: "Email", type: "text", width: 100 } 
+         ]
+     });
+  
+ });
+</script>
+
+</body>
+</html>
